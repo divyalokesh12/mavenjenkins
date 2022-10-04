@@ -12,7 +12,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class UITest 
 {
 
-
 	
 	@Test
 	public void startBrowser( )
